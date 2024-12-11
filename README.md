@@ -22,6 +22,8 @@ Alternatively, send your NIP to the NIPLs repo, maintained by [@lez](https://git
 - [NIPLs](https://github.com/lez/nipls) - Curates good NIPs from anyone
 - [BUDs](https://github.com/hzrd149/blossom/tree/master/buds) - An alternative file upload spec
 - [DIPs](https://github.com/damus-io/dips) - Damus iOS app custom features
+- [NIPs|zapstore.dev](https://zapstore.dev/docs/nips) - App store spec
+- [NIP-101](https://github.com/water783/nips/blob/nip101/101.md) - Single NIP for secret chat
 
 > [!WARNING]
 > These are not recommendations.
