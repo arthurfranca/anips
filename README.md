@@ -23,7 +23,7 @@ Alternatively, send your NIP to the NIPLs repo, maintained by [@lez](https://git
 - [BUDs](https://github.com/hzrd149/blossom/tree/master/buds) - An alternative file upload spec
 - [DIPs](https://github.com/damus-io/dips) - Damus iOS app custom features
 - [NIPs|zapstore.dev](https://zapstore.dev/docs/nips) - App store spec
-- [NIP-101](https://github.com/water783/nips/blob/nip101/101.md) - Single NIP for secret chat
+- [NIP-101](https://github.com/wcat7/nips/blob/nip101/101.md) - Single NIP for secret chat
 - [NIP-72 Extra](https://github.com/andotherstuff/chorus?tab=readme-ov-file#groups) - NIP-72
 Moderated Community spec with extra event kinds
 
